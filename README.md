@@ -1,1 +1,1 @@
-# testqgis2web.github.io
+# hotelqgis2web.github.io
